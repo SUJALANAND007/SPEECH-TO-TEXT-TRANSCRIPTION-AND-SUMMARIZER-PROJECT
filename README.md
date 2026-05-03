@@ -1,14 +1,3 @@
----
-title: Audio-to-Text Transcriber
-emoji: 🎙️
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 3.50.2
-app_file: app.py
-pinned: false
----
-
 # Audio Transcriber Pro
 
 A powerful audio transcription and summarization tool built with Gradio and Vosk.
